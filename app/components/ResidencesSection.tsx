@@ -45,7 +45,7 @@ const ResidencesSection = () => {
           preload="metadata"
           className="w-full h-full object-cover brightness-90"
         >
-          <source src="/5057332-hd_1920_1080_30fps.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dny35o8vg/video/upload/v1772823306/5057332-hd_1920_1080_30fps_nmliem.mp4" type="video/mp4" />
           {/* Fallback for unsupported browsers */}
           <img
             src="/images/luxury-building.jpg"

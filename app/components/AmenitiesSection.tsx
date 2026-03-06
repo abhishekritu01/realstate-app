@@ -64,7 +64,7 @@ const AmenitiesSection = () => {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="/about.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dny35o8vg/video/upload/v1772823304/about_taoubh.mp4" type="video/mp4" />
           {/* Fallback image if video not supported */}
           <img
             src="/images/luxury-amenities.jpg"

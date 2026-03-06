@@ -27,7 +27,7 @@ const AboutSection = () => {
           preload="metadata"
           className="w-full h-full object-cover"
         >
-          <source src="/6754296-uhd_3840_2160_30fps.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dny35o8vg/video/upload/v1772823318/6754296-uhd_3840_2160_30fps_1_hrgxxb.mp4" type="video/mp4" />
         </video>
       </motion.div>
 

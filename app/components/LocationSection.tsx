@@ -38,7 +38,7 @@ const LocationSection = () => {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="/2169880-uhd_3840_2160_30fps.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dny35o8vg/video/upload/v1772823306/2169880-uhd_3840_2160_30fps_1_1_1_1_1_ubuqxz.mp4" type="video/mp4" />
           {/* Fallback image */}
           <img
             src="/images/city-aerial.jpg"
