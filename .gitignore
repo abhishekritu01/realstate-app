@@ -10,7 +10,7 @@
 !.yarn/releases
 !.yarn/versions
 
-# testing
+# testinggit remote add origin git@github.com-personal:abhishekritu01-personal/realstate-app.git
 /coverage
 
 # next.js
