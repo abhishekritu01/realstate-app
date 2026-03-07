@@ -30,8 +30,8 @@ const HeroSection = () => {
         animate={{ scale: 1.1 }}
         transition={{ duration: 20, ease: 'linear', repeat: Infinity, repeatType: 'reverse' }}
       >
-        <source src="https://res.cloudinary.com/dny35o8vg/video/upload/v1772823306/5057332-hd_1920_1080_30fps_nmliem.mp4" type="video/webm" />
-        <source src="https://res.cloudinary.com/dny35o8vg/video/upload/v1772823306/5057332-hd_1920_1080_30fps_nmliem.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/dny35o8vg/video/upload/v1772823304/about_taoubh.mp4" type="video/webm" />
+        <source src="https://res.cloudinary.com/dny35o8vg/video/upload/v1772823304/about_taoubh.mp4" type="video/mp4" />
       </motion.video>
 
       {/* Overlay */}
